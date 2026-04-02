@@ -32,3 +32,4 @@ Core scanning, protocol handling, and key/cloud workflows are based on the upstr
 
 Upstream repository: jasonacox/tinytuya
 Please review and support the original repository for protocol updates, device compatibility, and core library improvements.
+<img width="1920" height="3873" alt="screenshot_2-04-2026_14-53-02" src="https://github.com/user-attachments/assets/5e9bc87a-7df4-46cf-a37c-7fdcbf387ffa" />
