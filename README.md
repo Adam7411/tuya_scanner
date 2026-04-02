@@ -78,7 +78,8 @@ To fetch Local Keys and cloud metadata:
 
 Helpful screenshot from the add-on UI:
 
-![Tuya API setup help](www/tuya.png)
+![Tuya API setup help](<img width="1631" height="651" alt="tuya" src="https://github.com/user-attachments/assets/edeb9527-add7-4355-97fd-39c90228c9cf" />
+)
 
 ---
 
