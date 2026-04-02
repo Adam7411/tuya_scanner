@@ -30,6 +30,12 @@ Credits / Upstream
 This add-on is a UI wrapper around the TinyTuya ecosystem and does not replace TinyTuya itself.
 Core scanning, protocol handling, and key/cloud workflows are based on the upstream project by jasonacox:
 
+📥 Installation
+Step 1: Add Repository
+In Home Assistant, go to Settings -> Applications -> Add-on Store.
+Click the menu button (three dots) in the top right corner -> Repositories.
+Add the URL of this repository.
+
 Upstream repository: jasonacox/tinytuya
 Please review and support the original repository for protocol updates, device compatibility, and core library improvements.
 <img width="1920" height="3873" alt="screenshot_2-04-2026_14-53-02" src="https://github.com/user-attachments/assets/5e9bc87a-7df4-46cf-a37c-7fdcbf387ffa" />
