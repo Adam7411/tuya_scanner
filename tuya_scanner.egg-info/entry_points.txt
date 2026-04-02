@@ -1,2 +1,0 @@
-[console_scripts]
-tuya-scanner = tuya_scanner.cli:main
