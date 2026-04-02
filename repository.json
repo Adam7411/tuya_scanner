@@ -1,3 +1,5 @@
-name: "Adam7411 Home Assistant Add-ons"
-url: "https://github.com/Adam7411/tuya_scanner"
-maintainer: "Adam7411"
+
+{
+  "name": "TinyTuya Scanner",
+  "url": "https://github.com/Adam7411/tuya_scanner"
+}
