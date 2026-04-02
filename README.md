@@ -39,6 +39,7 @@ The add-on is designed around a 3-step operational flow:
 - Per-device DPS diagnostics (raw JSON payload view)
 - Copy/export helpers for integration and debugging
 - Multi-language UI (EN / PL / DE / FR)
+<img width="1920" height="3873" alt="screenshot_2-04-2026_14-53-02" src="https://github.com/user-attachments/assets/c8939a30-3f8e-4ffd-92f5-f7ef1241b378" />
 
 ---
 
