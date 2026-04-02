@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tuya_scanner"
+version = "1.0.0"
+description = "Discover Tuya smart devices on your local network via UDP broadcast and TCP scan"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.8"
+keywords = ["tuya", "iot", "smart-home", "network-scanner"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Home Automation",
+    "Topic :: System :: Networking",
+]
+dependencies = []
+
+[project.scripts]
+tuya-scanner = "tuya_scanner.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["tuya_scanner*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
